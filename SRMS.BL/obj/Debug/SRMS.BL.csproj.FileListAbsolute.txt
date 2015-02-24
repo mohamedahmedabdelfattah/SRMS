@@ -1,0 +1,18 @@
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.BL\bin\Debug\SRMS.BL.dll
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.BL\bin\Debug\SRMS.BL.pdb
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.BL\bin\Debug\SRMS.BO.dll
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.BL\bin\Debug\SRMS.DL.dll
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.BL\bin\Debug\SRMS.DL.pdb
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.BL\bin\Debug\SRMS.BO.pdb
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.BL\obj\Debug\SRMS.BL.dll
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.BL\obj\Debug\SRMS.BL.pdb
+E:\Programming\Testing\SRMS\SRMS.BL\bin\Debug\SRMS.BL.dll
+E:\Programming\Testing\SRMS\SRMS.BL\bin\Debug\SRMS.BL.pdb
+E:\Programming\Testing\SRMS\SRMS.BL\bin\Debug\SRMS.BO.dll
+E:\Programming\Testing\SRMS\SRMS.BL\bin\Debug\SRMS.DL.dll
+E:\Programming\Testing\SRMS\SRMS.BL\bin\Debug\SRMS.BO.pdb
+E:\Programming\Testing\SRMS\SRMS.BL\bin\Debug\SRMS.DL.pdb
+E:\Programming\Testing\SRMS\SRMS.BL\obj\Debug\SRMS.BL.csprojResolveAssemblyReference.cache
+E:\Programming\Testing\SRMS\SRMS.BL\obj\Debug\SRMS.BL.dll
+E:\Programming\Testing\SRMS\SRMS.BL\obj\Debug\SRMS.BL.pdb

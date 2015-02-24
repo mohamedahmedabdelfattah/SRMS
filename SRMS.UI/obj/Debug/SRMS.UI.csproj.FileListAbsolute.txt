@@ -1,0 +1,28 @@
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.UI\bin\Debug\SRMS.UI.exe
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.UI\bin\Debug\SRMS.UI.pdb
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.UI\bin\Debug\SRMS.BL.dll
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.UI\bin\Debug\SRMS.BO.dll
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.UI\bin\Debug\SRMS.DL.dll
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.UI\bin\Debug\SRMS.DL.pdb
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.UI\bin\Debug\SRMS.BL.pdb
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.UI\bin\Debug\SRMS.BO.pdb
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.UI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.UI\obj\Debug\SRMS.UI.Properties.Resources.resources
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.UI\obj\Debug\SRMS.UI.StudentRecordForm.resources
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.UI\obj\Debug\SRMS.UI.csproj.GenerateResource.Cache
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.UI\obj\Debug\SRMS.UI.exe
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.UI\obj\Debug\SRMS.UI.pdb
+E:\Programming\Testing\SRMS\SRMS.UI\obj\Debug\SRMS.UI.exe
+E:\Programming\Testing\SRMS\SRMS.UI\obj\Debug\SRMS.UI.pdb
+E:\Programming\Testing\SRMS\SRMS.UI\bin\Debug\SRMS.UI.exe
+E:\Programming\Testing\SRMS\SRMS.UI\bin\Debug\SRMS.UI.pdb
+E:\Programming\Testing\SRMS\SRMS.UI\bin\Debug\SRMS.BL.dll
+E:\Programming\Testing\SRMS\SRMS.UI\bin\Debug\SRMS.BO.dll
+E:\Programming\Testing\SRMS\SRMS.UI\bin\Debug\SRMS.DL.dll
+E:\Programming\Testing\SRMS\SRMS.UI\bin\Debug\SRMS.BL.pdb
+E:\Programming\Testing\SRMS\SRMS.UI\bin\Debug\SRMS.BO.pdb
+E:\Programming\Testing\SRMS\SRMS.UI\bin\Debug\SRMS.DL.pdb
+E:\Programming\Testing\SRMS\SRMS.UI\obj\Debug\SRMS.UI.csprojResolveAssemblyReference.cache
+E:\Programming\Testing\SRMS\SRMS.UI\obj\Debug\SRMS.UI.Properties.Resources.resources
+E:\Programming\Testing\SRMS\SRMS.UI\obj\Debug\SRMS.UI.StudentRecordForm.resources
+E:\Programming\Testing\SRMS\SRMS.UI\obj\Debug\SRMS.UI.csproj.GenerateResource.Cache

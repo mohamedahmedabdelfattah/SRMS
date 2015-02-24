@@ -1,0 +1,10 @@
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.BO\bin\Debug\SRMS.BO.dll
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.BO\bin\Debug\SRMS.BO.pdb
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.BO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.BO\obj\Debug\SRMS.BO.dll
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\SRMS\SRMS.BO\obj\Debug\SRMS.BO.pdb
+E:\Programming\Testing\SRMS\SRMS.BO\bin\Debug\SRMS.BO.dll
+E:\Programming\Testing\SRMS\SRMS.BO\bin\Debug\SRMS.BO.pdb
+E:\Programming\Testing\SRMS\SRMS.BO\obj\Debug\SRMS.BO.csprojResolveAssemblyReference.cache
+E:\Programming\Testing\SRMS\SRMS.BO\obj\Debug\SRMS.BO.dll
+E:\Programming\Testing\SRMS\SRMS.BO\obj\Debug\SRMS.BO.pdb
